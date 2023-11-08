@@ -1,3 +1,3 @@
 # pweb-pert10
 
-tugas membuat web dengan kemampuan mengakses database dan membaca database menggunakan php
+Membuat web dengan basis data MySQL dan mengaksesnya menggunakan PHP
